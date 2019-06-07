@@ -119,9 +119,9 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-
 ########################
 #mvnw
-.*mvnw
+*.mvnw
 #####################
-.*mvnw.cmd
+*.mvnw.cmd
+*.mvn/wrapper
